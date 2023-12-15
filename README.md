@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/QyJ0We4GHpjBa7PvKL/giphy.gif" width="100"/>
-
 ### Доброго времени суток! 👋
 ### :woman_technologist: Меня зовут Раиля. Я работаю тестировщиком ПО и занимаюсь тем, что нахожу баги, тем самым делаю продукт качественнее и лучше.
 
@@ -21,7 +18,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 </div>
 
-:mailbox:How to reach me: fazyllinarailya@gmail.com
+How to reach me: fazyllinarailya@gmail.com
 <div id="badges"> 
   <a href="t.me/ro1yaa">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
